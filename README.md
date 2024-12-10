@@ -1,6 +1,7 @@
-# 👋 Hi there, I'm Daehun Kwon!
+![image](https://github.com/user-attachments/assets/935bff1e-ef2f-4baa-a1ee-2c0d572c47e8)
 
-## 🧑‍🎓 About Me
+
+## 🧑‍🎓 Education
 🇰🇷 BSc Information Technology Management, Seoul National University of Science and Technology (SEOULTECH)
 🇬🇧 BSc(Hons) Information Technology Management, Northumbria University
 
