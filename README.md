@@ -52,8 +52,6 @@ I am passionate about solving real-world problems through data and AI. My curren
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Daehun Kwon](https://www.linkedin.com/in/your-profile)  
-- **Email**: daehun.kw@seoultech.ac.kr  
-- **GitHub**: [Daehun-Kwon](https://github.com/your-github-profile)
+- **Email**: dnwn7359@seoultech.ac.kr  
 
 Feel free to explore my repositories and reach out for collaborations or discussions about data science, AI, and NLP! 🚀
