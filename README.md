@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/935bff1e-ef2f-4baa-a1ee-2c0d572c47e8)
+![image](https://github.com/user-attachments/assets/2c41ade2-8c5b-4241-b73c-60c7489df4b9)
+
 
 
 ## 🧑‍🎓 Education
